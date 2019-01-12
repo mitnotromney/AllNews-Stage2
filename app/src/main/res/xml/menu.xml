@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:defaultValue="@string/menu_preference1dafaultvalue"
+        android:key="@string/menu_preference1key"
+        android:title="@string/menu_preference1title" />
+
+    <ListPreference
+        android:defaultValue="@string/menu_preference2dafaultvalue"
+        android:entries="@array/menu_preference2entries"
+        android:entryValues="@array/menu_preference2entryvalues"
+        android:key="@string/menu_preference2key"
+        android:title="@string/menu_preference2title" />
+
+</PreferenceScreen>

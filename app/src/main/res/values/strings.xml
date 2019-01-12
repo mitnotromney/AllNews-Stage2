@@ -1,5 +1,16 @@
 <resources>
     <string name="app_name">AllNews</string>
     <string name="no_internet_connection">There is no internet connection</string>
-    <string name="no_news">No news stories have been found.</string>
+    <string name="no_news">No news stories.</string>
+    <string name="main_menuitem1title">Settings</string>
+
+    <string name="menu_activityname">News Settings</string>
+
+    <string name="menu_preference1key">settings_preference2</string>
+    <string name="menu_preference1title">Search</string>
+    <string name="menu_preference1dafaultvalue">Politics</string>
+
+    <string name="menu_preference2key">settings_preference1</string>
+    <string name="menu_preference2title">Sort By</string>
+    <string name="menu_preference2dafaultvalue">Newest</string>
 </resources>
